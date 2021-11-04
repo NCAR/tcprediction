@@ -1,12 +1,28 @@
 menu:
-  - title: Layouts
-    url: /koru-jekyll-template/pages/layouts.html
-    submenu:
-      - title: Submenu Item
-        url: /koru-jekyll-template/pages/submenu.html
-  - title: Updating the Main Menu
-    url: /koru-jekyll-template/pages/main-menu.html
-  - title: Local Development
-    url: /koru-jekyll-template/pages/local-development.html
-  - title: Support
-    url: /koru-jekyll-template/pages/support.html
+  - title: About the Project
+    url: /pages/about/index.html
+    submenu: 
+      - title: The Need
+        url: /pages/about/need.html
+      - title: Our Science
+        url: /pages/about/science.html
+      - title: Our Team
+        url: /pages/about/team.html
+      - title: Our Partners
+        url: /pages/about/partners.html
+      - title: Project Schedule
+        url: /pages/about/schedule.html
+      - title: Project Updates
+        url: /pages/about/updates.html
+  - title: Insights
+    url: /pages/insights/index.html
+    submenu: 
+      - title: A Hurricane Scenario
+        url: /pages/insights/scenario.html
+  - title: Related Resources
+    url: /pages/related/index.html
+    submenu: 
+      - title: Tropical Cyclone Guidance Project
+        url: http://hurricanes.ral.ucar.edu 
+      - title: Forecasts of Hurricanes using Large-ensemble Outputs (FHLO)
+        url: http://tcs.mit.edu
