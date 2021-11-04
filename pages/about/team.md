@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Our Team
+title: Project Team
 ---
 
 ## Our Team
 
-NCAR's portion of the Tropical Cyclone Rapid Intensification project team has five members.
+NCAR's side of the Tropical Cyclone Rapid Intensification project team has five members.
 
 ### NCAR Principal Investigator
 
@@ -29,6 +29,9 @@ Dr. Christopher Rozoff (Project Scientist, Research Applications Laboratory at t
 Dr. Eric Hendricks is a project scientist at the Research Applications Laboratory of the National Center for Atmospheric Research. He has a B.S.E. degree from the University of Michigan in Mechanical Engineering and M.S./Ph.D. degrees in Atmospheric Science from Colorado State University. Dr. Hendricks has expertise in tropical cyclones, tropical meteorology, numerical weather prediction (focus on mesoscale and large-eddy-simulation modeling), numerical methods, atmospheric dynamics, boundary-layer meteorology, and urban meteorology. Dr. Hendricks has authored or co-authored over 40 refereed publications and 100 conference presentations. Dr. Hendricks plans to contribute to wind hazard modeling in urban environments to support the HurricaneRiskCalculator.
 
 
+#### David John Gagne
 
 
+
+#### Mrinal Biswas
 
