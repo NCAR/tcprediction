@@ -14,11 +14,25 @@ menu:
         url: /pages/about/schedule.html
       - title: Project Updates
         url: /pages/about/updates.html
-  - title: Insights
-    url: /pages/insights/index.html
+  - title: Project Datasets
+    url: /pages/data/index.html
+    submenu: 
+      - title: FLIGHT+ Dataset
+        url: /pages/data/flight.html  
+      - title: VDM+ Dataset
+        url: /pages/data/vdm.html  
+      - title: Predictor Dataset
+        url: /pages/data/predictor.html  
+  - title: Project Meetings
+    url: /pages/meetings/index.html
+    submenu: 
+      - title: Project Meetings  Notes
+        url: /pages/meetings/notes.html
+  - title: Project Results
+    url: /pages/results/index.html
     submenu: 
       - title: A Hurricane Scenario
-        url: /pages/insights/scenario.html
+        url: /pages/results/scenario.html
   - title: Related Resources
     url: /pages/related/index.html
     submenu: 
