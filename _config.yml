@@ -24,7 +24,7 @@ github_username: jvigh
 analytics:
 
 #for the project entitled "New Frameworks for Predicting Extreme Rapid Intensification",
-  a research project which seeks to improve predictions for tropical cyclone extreme intensification.
+#  a research project which seeks to improve predictions for tropical cyclone extreme intensification.
 
 # Build settings
 markdown: kramdown
