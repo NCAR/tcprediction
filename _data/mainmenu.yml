@@ -38,7 +38,7 @@ menu:
     url: /tcprediction/pages/meetings/index.html
     submenu: 
       - title: Project Meetings Notes
-        url: /tcprediction/pages/meetings/notes.html
+        url: /tcprediction/pages/meetings/index.html
   - title: Results
     url: /tcprediction/pages/results/index.html
     submenu: 
