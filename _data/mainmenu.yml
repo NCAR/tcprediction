@@ -19,18 +19,31 @@ menu:
         url: /tcprediction/pages/data/flight.html  
       - title: VDM+ Dataset
         url: /tcprediction/pages/data/vdm.html  
-      - title: Predictor Dataset
-        url: /tcprediction/pages/data/predictor.html  
+      - title: ENCORE Predictor Dataset
+        url: /tcprediction/pages/data/encore.html  
+  - title: Project Models
+    url: /tcprediction/pages/models/index.html
+    submenu: 
+      - title: The marbleRI Model
+        url: /tcprediction/pages/models/marbleri.html  
+      - title: The Hurricane LOGistic (HLOG) Model
+        url: /tcprediction/pages/models/hlog.html  
+      - title: The GEFS LOGistic (GELOG) Model
+        url: /tcprediction/pages/models/gelog.html  
+      - title: The Logistic Growth Equation Model - Upper Bound  (LGEM-UB)
+        url: /tcprediction/pages/models/lgem-ub.html  
+      - title: The Generalized Rapid Intensification Prediction (GRIP) Framework
+        url: /tcprediction/pages/models/grip.html  
   - title: Project Meetings
     url: /tcprediction/pages/meetings/index.html
     submenu: 
-      - title: Project Meetings  Notes
+      - title: Project Meetings Notes
         url: /tcprediction/pages/meetings/notes.html
   - title: Project Results
     url: /tcprediction/pages/results/index.html
     submenu: 
-      - title: A Hurricane Scenario
-        url: /tcprediction/pages/results/scenario.html
+      - title: HLOG Evaluation
+        url: /tcprediction/pages/results/hlog.html
   - title: Related Resources
     url: /tcprediction/pages/related/index.html
     submenu: 
