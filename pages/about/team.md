@@ -11,7 +11,7 @@ NCAR's side of the Tropical Cyclone Rapid Intensification project team has five 
 
 #### Jonathan Vigh
 
-<img src="../../images/people/Jonathan_Vigh_head_shot_foothills_2019.PNG" alt="Head shot of Jonathan Vigh with backdrop of the Flatirons" style="display: block; margin: auto; max-height: 300px;">
+<img src="../../images/people/Jonathan_Vigh_head_shot_foothills_2019.png" alt="Head shot of Jonathan Vigh with backdrop of the Flatirons" style="display: block; margin: auto; max-height: 300px;">
 
 [Dr. Jonathan Vigh](https://staff.ral.ucar.edu/jvigh/) (Project Scientist I, Research Applications Laboratory at the National Center for Atmospheric Research) works at the intersection of atmospheric science, data science, and weather/climate risk. Dr. Vigh has expertise in tropical meteorology and tropical cyclone dynamics. Dr. Vigh has studied the problem of eye formation in hurricanes to learn how the eye/eyewall structure impacts the subsequent intensification of the storm. Dr. Vigh has also done extensive work to construct [aircraft-based data sets](https://verif.rap.ucar.edu/tcdata/flight/) and a [historical database](https://verif.rap.ucar.edu/tcdata/historical/) to further investigate structure and intensity changes in tropical cyclones, with a particular focus on the radius of maximum winds (RMW). Dr. Vigh is the lead developer of the [Tropical Cyclone Guidance Project (TCGP)](http://hurricanes.ral.ucar.edu/) and the [Climate Risk Management engine (CRMe)](https://verif.rap.ucar.edu/jntweb/crme/). Dr. Vigh is the Principal Investigator of the HurricaneRiskCalculator project, leads the Wind Modeling and Verification and Validation teams. 
 
