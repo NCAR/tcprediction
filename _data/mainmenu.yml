@@ -1,13 +1,13 @@
 menu:
   - title: About the Project
-    url: /pages/about/index.html
+    url: /tcprediction/pages/about/index.html
     submenu: 
       - title: The Need
         url: /pages/about/need.html
       - title: Our Science
         url: /pages/about/science.html
       - title: Our Team
-        url: /pages/about/team.html
+        url: /tcprediction/pages/about/team.html
       - title: Project Schedule
         url: /pages/about/schedule.html
       - title: Project Updates
