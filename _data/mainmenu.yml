@@ -2,14 +2,39 @@ menu:
   - title: About the Project
     url: /tcprediction/pages/about/index.html
     submenu: 
+      - title: The Need
+        url: /tcprediction/pages/about/need.html
+      - title: Our Science
+        url: /tcprediction/pages/about/science.html
       - title: Our Team
         url: /tcprediction/pages/about/team.html
+      - title: Project Schedule
+        url: /tcprediction/pages/about/schedule.html
+      - title: Project Updates
+        url: /tcprediction/pages/about/updates.html
+  - title: Project Datasets
+    url: /tcprediction/pages/data/index.html
+    submenu: 
+      - title: FLIGHT+ Dataset
+        url: /tcprediction/pages/data/flight.html  
+      - title: VDM+ Dataset
+        url: /tcprediction/pages/data/vdm.html  
+      - title: Predictor Dataset
+        url: /tcprediction/pages/data/predictor.html  
+  - title: Project Meetings
+    url: /tcprediction/pages/meetings/index.html
+    submenu: 
+      - title: Project Meetings  Notes
+        url: /tcprediction/pages/meetings/notes.html
+  - title: Project Results
+    url: /tcprediction/pages/results/index.html
+    submenu: 
+      - title: A Hurricane Scenario
+        url: /tcprediction/pages/results/scenario.html
   - title: Related Resources
     url: /tcprediction/pages/related/index.html
     submenu: 
       - title: Tropical Cyclone Guidance Project
         url: http://hurricanes.ral.ucar.edu 
-      - title: Tropical Cyclone Data Project
-        url: http://verif.rap.ucar.edu/tcdata/ 
       - title: Forecasts of Hurricanes using Large-ensemble Outputs (FHLO)
         url: http://tcs.mit.edu
