@@ -12,7 +12,7 @@ menu:
         url: /tcprediction/pages/about/schedule.html
       - title: Project Updates
         url: /tcprediction/pages/about/updates.html
-  - title: Project Datasets
+  - title: Datasets
     url: /tcprediction/pages/data/index.html
     submenu: 
       - title: FLIGHT+ Dataset
@@ -21,7 +21,7 @@ menu:
         url: /tcprediction/pages/data/vdm.html  
       - title: ENCORE Predictor Dataset
         url: /tcprediction/pages/data/encore.html  
-  - title: Project Models
+  - title: Models
     url: /tcprediction/pages/models/index.html
     submenu: 
       - title: The marbleRI Model
@@ -39,7 +39,7 @@ menu:
     submenu: 
       - title: Project Meetings Notes
         url: /tcprediction/pages/meetings/notes.html
-  - title: Project Results
+  - title: Results
     url: /tcprediction/pages/results/index.html
     submenu: 
       - title: HLOG Evaluation
